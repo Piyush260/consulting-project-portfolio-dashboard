@@ -62,6 +62,8 @@ The dataset contains 500 simulated consulting projects across multiple regions a
 
 ![Financial Performance](Screenshots/Financial_Performance.png)
 
+![Project Portfolio](Screenshots/Project_Portfolio.png)
+
 ![Resource Utilization](Screenshots/Resource_Utilization.png)
 
 ![Risk Governance](Screenshots/Risk_Governance.png)
