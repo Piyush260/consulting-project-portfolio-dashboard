@@ -40,9 +40,6 @@ Identifies delayed and high-risk projects.
 
 The dataset contains 500 simulated consulting projects across multiple regions and business units.
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Skills Demonstrated
 
